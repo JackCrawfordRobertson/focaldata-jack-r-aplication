@@ -1,0 +1,43 @@
+.main {
+  margin: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 100%; /* Ensure max width is 100% */
+  height: auto; /* Adjust height */
+  z-index: 10;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.body{
+  width: 40vw;
+}
+
+.mainTitle{
+  font-size: 2em;
+  font-weight: 600;
+  margin: 0;
+}
+
+.date{
+  font-size: 1em;
+  font-weight: 600;
+  color: #4F4F4F;
+  margin-top: .5em;
+}
+
+
+
+
+@media screen and (max-width: 600px){
+  .body{
+    width: auto;
+  }
+}
