@@ -8,16 +8,15 @@ function MyApp({ Component, pageProps }) {
         {/* Essential metadata tags */}
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Explore our AI-powered commentary on climate change." />
+        <meta name="description" content="Explore the candidate case study task" />
         <meta name="keywords" content="your, keywords, here" />
 
         <link rel="icon" href="/logo.svg" />
       
-        {/* Open Graph and Twitter Card tags (for social sharing) */}
-        <meta property="og:title" content="Chatting about the News" />
-        <meta property="og:description" content="Explore our AI-powered commentary on climate change." />
+        <meta property="og:title" content="JackXFocaldata" />
+        <meta property="og:description" content="Explore the candidate case study task" />
         <meta property="og:image" content="/logo.svg" />
-        <meta property="og:url" content="https://chatting.jack-robertson.co.uk/" />
+        <meta property="og:url" content="https://focaldata.jack-robertson.co.uk/" />
         <meta name="twitter:card" content="summary_large_image" />
 
       
