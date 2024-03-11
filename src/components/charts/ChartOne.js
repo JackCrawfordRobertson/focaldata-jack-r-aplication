@@ -46,13 +46,47 @@ const EducationChart = () => {
     };
 
     return (
-        <Box sx={{padding: "0", paddingTop:'10px'}}>
+        <Box sx={{ padding: "0", paddingTop: '0px' }}>
+            <Slider
+                min={0}
+                max={chart_one.length - 1}
+                value={selectedIndex}
+                onChange={handleSliderChange}
+                aria-labelledby="discrete-slider"
+                valueLabelDisplay="auto"
+                sx={{
+                    width: "100%",
+                     
+                    "& .MuiSlider-thumb": {
+                        color: "#6babf2", // Changes the thumb color
+                    },
+                    "& .MuiSlider-track": {
+                        color: "#6babf2", // Changes the track color
+                    },
+                    "& .MuiSlider-rail": {
+                        color: "#b2dffb", // Optionally changes the rail color to a lighter shade for contrast
+                    },
+                    "& .MuiSlider-mark": {
+                        color: "#6babf2", // Changes the mark color
+                    },
+                    "& .MuiSlider-markLabel": {
+                        color: "#6babf2", // Optionally changes the mark label color if you're using labels
+                    },
+                }}
+                marks={chart_one.map((_, index) => ({value: index}))}
+                step={null}
+            />
+            <div style={{margin: "0 0  30px",  }}>
+                {isValidIndex
+                    ? `Viewing data for: ${chart_one[selectedIndex]["Educational Achievement"]}`
+                    : "Please select a valid entry."}
+            </div>
             <VictoryChart
                 domainPadding={20}
                 theme={VictoryTheme.material}
                 animate={{duration: 500}}
                 style={{parent: {border: "0px solid #ccc"}}}
-                padding={{left: 80, bottom: 50}} // Adjust left padding as needed
+                padding={{left: 80, bottom: 20, right:10}} // Adjust left padding as needed
             >
                 <VictoryAxis
                     dependentAxis
@@ -78,39 +112,7 @@ const EducationChart = () => {
                     }
                 />
             </VictoryChart>
-            <Slider
-                min={0}
-                max={chart_one.length - 1}
-                value={selectedIndex}
-                onChange={handleSliderChange}
-                aria-labelledby="discrete-slider"
-                valueLabelDisplay="auto"
-                sx={{
-                    width: "100%",
-                    "& .MuiSlider-thumb": {
-                        color: "#6babf2", // Changes the thumb color
-                    },
-                    "& .MuiSlider-track": {
-                        color: "#6babf2", // Changes the track color
-                    },
-                    "& .MuiSlider-rail": {
-                        color: "#b2dffb", // Optionally changes the rail color to a lighter shade for contrast
-                    },
-                    "& .MuiSlider-mark": {
-                        color: "#6babf2", // Changes the mark color
-                    },
-                    "& .MuiSlider-markLabel": {
-                        color: "#6babf2", // Optionally changes the mark label color if you're using labels
-                    },
-                }}
-                marks={chart_one.map((_, index) => ({value: index}))}
-                step={null}
-            />
-            <div>
-                {isValidIndex
-                    ? `Viewing data for: ${chart_one[selectedIndex]["Educational Achievement"]}`
-                    : "Please select a valid entry."}
-            </div>
+            
         </Box>
     );
 };

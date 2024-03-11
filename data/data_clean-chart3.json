@@ -1,0 +1,1658 @@
+[
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "The Labour Party",
+        "Support": 8,
+        "LogSupport": 2.1972245773,
+        "BubbleSize": 4120.2708459165
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Green Party",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "I would not vote",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Reform UK (formerly the Brexit Party)",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 3,
+        "LogSupport": 1.3862943611,
+        "BubbleSize": 2599.6014694617
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "The Labour Party",
+        "Support": 20,
+        "LogSupport": 3.0445224377,
+        "BubbleSize": 5709.137413299
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 4,
+        "LogSupport": 1.6094379124,
+        "BubbleSize": 3018.0438437268
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "I would not vote",
+        "Support": 3,
+        "LogSupport": 1.3862943611,
+        "BubbleSize": 2599.6014694617
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "The Labour Party",
+        "Support": 11,
+        "LogSupport": 2.4849066498,
+        "BubbleSize": 4659.73689242
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "The Labour Party",
+        "Support": 5,
+        "LogSupport": 1.7917594692,
+        "BubbleSize": 3359.9361576891
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 10,
+        "LogSupport": 2.3978952728,
+        "BubbleSize": 4496.571759656
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Green Party",
+        "Support": 5,
+        "LogSupport": 1.7917594692,
+        "BubbleSize": 3359.9361576891
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "I would not vote",
+        "Support": 5,
+        "LogSupport": 1.7917594692,
+        "BubbleSize": 3359.9361576891
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 11,
+        "LogSupport": 2.4849066498,
+        "BubbleSize": 4659.73689242
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "None of these",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Scottish National Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 22,
+        "LogSupport": 3.1354942159,
+        "BubbleSize": 5879.7291540835
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "The Labour Party",
+        "Support": 58,
+        "LogSupport": 4.0775374439,
+        "BubbleSize": 7646.26375772
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "No Qualifications",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "No Qualifications",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "The Labour Party",
+        "Support": 4,
+        "LogSupport": 1.6094379124,
+        "BubbleSize": 3018.0438437268
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 5,
+        "LogSupport": 1.7917594692,
+        "BubbleSize": 3359.9361576891
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "I would not vote",
+        "Support": 3,
+        "LogSupport": 1.3862943611,
+        "BubbleSize": 2599.6014694617
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Reform UK (formerly the Brexit Party)",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 3,
+        "LogSupport": 1.3862943611,
+        "BubbleSize": 2599.6014694617
+    },
+    {
+        "A4": "Asian or Asian British",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "The Labour Party",
+        "Support": 14,
+        "LogSupport": 2.7080502011,
+        "BubbleSize": 5078.1792666851
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "Green Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "None of these",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "The Labour Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "The Labour Party",
+        "Support": 4,
+        "LogSupport": 1.6094379124,
+        "BubbleSize": 3018.0438437268
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "Green Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "Reform UK (formerly the Brexit Party)",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "The Labour Party",
+        "Support": 5,
+        "LogSupport": 1.7917594692,
+        "BubbleSize": 3359.9361576891
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "Green Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 3,
+        "LogSupport": 1.3862943611,
+        "BubbleSize": 2599.6014694617
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "I would not vote",
+        "Support": 4,
+        "LogSupport": 1.6094379124,
+        "BubbleSize": 3018.0438437268
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 5,
+        "LogSupport": 1.7917594692,
+        "BubbleSize": 3359.9361576891
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "None of these",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 16,
+        "LogSupport": 2.8332133441,
+        "BubbleSize": 5312.8872042423
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "The Labour Party",
+        "Support": 41,
+        "LogSupport": 3.7376696183,
+        "BubbleSize": 7008.9381480299
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 3,
+        "LogSupport": 1.3862943611,
+        "BubbleSize": 2599.6014694617
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "The Labour Party",
+        "Support": 3,
+        "LogSupport": 1.3862943611,
+        "BubbleSize": 2599.6014694617
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Green Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Black or Black British",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "The Labour Party",
+        "Support": 7,
+        "LogSupport": 2.0794415417,
+        "BubbleSize": 3899.4022041926
+    },
+    {
+        "A4": "Chinese",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Chinese",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "The Labour Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Chinese",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "Green Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Chinese",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Green Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Chinese",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Chinese",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Chinese",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "The Labour Party",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Chinese",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Chinese",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Green Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Chinese",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "The Labour Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "The Labour Party",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 3,
+        "LogSupport": 1.3862943611,
+        "BubbleSize": 2599.6014694617
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "The Labour Party",
+        "Support": 5,
+        "LogSupport": 1.7917594692,
+        "BubbleSize": 3359.9361576891
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "Reform UK (formerly the Brexit Party)",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "The Labour Party",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "The Labour Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Green Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "I would not vote",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 5,
+        "LogSupport": 1.7917594692,
+        "BubbleSize": 3359.9361576891
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 7,
+        "LogSupport": 2.0794415417,
+        "BubbleSize": 3899.4022041926
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "The Labour Party",
+        "Support": 10,
+        "LogSupport": 2.3978952728,
+        "BubbleSize": 4496.571759656
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "The Labour Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Green Party",
+        "Support": 3,
+        "LogSupport": 1.3862943611,
+        "BubbleSize": 2599.6014694617
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Reform UK (formerly the Brexit Party)",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Mixed",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "The Labour Party",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "The Labour Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "The Labour Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "The Labour Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 4,
+        "LogSupport": 1.6094379124,
+        "BubbleSize": 3018.0438437268
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Green Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "I would not vote",
+        "Support": 4,
+        "LogSupport": 1.6094379124,
+        "BubbleSize": 3018.0438437268
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 3,
+        "LogSupport": 1.3862943611,
+        "BubbleSize": 2599.6014694617
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Scottish National Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 3,
+        "LogSupport": 1.3862943611,
+        "BubbleSize": 2599.6014694617
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "The Labour Party",
+        "Support": 9,
+        "LogSupport": 2.302585093,
+        "BubbleSize": 4317.8445784577
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "No Qualifications",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Other ethnic group",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Prefer not to say",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Prefer not to say",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Prefer not to say",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Prefer not to say",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "Green Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Prefer not to say",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Prefer not to say",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "None of these",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Prefer not to say",
+        "Education_Level": "No Qualifications",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Prefer not to say",
+        "Education_Level": "No Qualifications",
+        "PoliticalParty": "I would not vote",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Prefer not to say",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "Prefer not to say",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "Other",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Prefer not to say",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "Prefer not to say",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "White",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 35,
+        "LogSupport": 3.5835189385,
+        "BubbleSize": 6719.8723153782
+    },
+    {
+        "A4": "White",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "Green Party",
+        "Support": 13,
+        "LogSupport": 2.6390573296,
+        "BubbleSize": 4948.8027250717
+    },
+    {
+        "A4": "White",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "I would not vote",
+        "Support": 47,
+        "LogSupport": 3.8712010109,
+        "BubbleSize": 7259.3383618817
+    },
+    {
+        "A4": "White",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 24,
+        "LogSupport": 3.2188758249,
+        "BubbleSize": 6036.0876874537
+    },
+    {
+        "A4": "White",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "None of these",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "White",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "Other",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "White",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "Plaid Cymru",
+        "Support": 3,
+        "LogSupport": 1.3862943611,
+        "BubbleSize": 2599.6014694617
+    },
+    {
+        "A4": "White",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "Reform UK (formerly the Brexit Party)",
+        "Support": 36,
+        "LogSupport": 3.6109179126,
+        "BubbleSize": 6771.2513121907
+    },
+    {
+        "A4": "White",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "Scottish National Party",
+        "Support": 9,
+        "LogSupport": 2.302585093,
+        "BubbleSize": 4317.8445784577
+    },
+    {
+        "A4": "White",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 62,
+        "LogSupport": 4.1431347264,
+        "BubbleSize": 7769.2728362573
+    },
+    {
+        "A4": "White",
+        "Education_Level": "1-4 GCSEs",
+        "PoliticalParty": "The Labour Party",
+        "Support": 99,
+        "LogSupport": 4.605170186,
+        "BubbleSize": 8635.6891569154
+    },
+    {
+        "A4": "White",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 71,
+        "LogSupport": 4.276666119,
+        "BubbleSize": 8019.6730501091
+    },
+    {
+        "A4": "White",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Green Party",
+        "Support": 23,
+        "LogSupport": 3.1780538303,
+        "BubbleSize": 5959.5376271509
+    },
+    {
+        "A4": "White",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "I would not vote",
+        "Support": 40,
+        "LogSupport": 3.7135720667,
+        "BubbleSize": 6963.7500319614
+    },
+    {
+        "A4": "White",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 43,
+        "LogSupport": 3.7841896339,
+        "BubbleSize": 7096.1732291177
+    },
+    {
+        "A4": "White",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "None of these",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "White",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Other",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "White",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Plaid Cymru",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "White",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Reform UK (formerly the Brexit Party)",
+        "Support": 33,
+        "LogSupport": 3.5263605246,
+        "BubbleSize": 6612.6879389732
+    },
+    {
+        "A4": "White",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "Scottish National Party",
+        "Support": 10,
+        "LogSupport": 2.3978952728,
+        "BubbleSize": 4496.571759656
+    },
+    {
+        "A4": "White",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 96,
+        "LogSupport": 4.5747109785,
+        "BubbleSize": 8578.5715614345
+    },
+    {
+        "A4": "White",
+        "Education_Level": "2+ A-levels",
+        "PoliticalParty": "The Labour Party",
+        "Support": 181,
+        "LogSupport": 5.2040066871,
+        "BubbleSize": 9758.6369895388
+    },
+    {
+        "A4": "White",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 50,
+        "LogSupport": 3.9318256327,
+        "BubbleSize": 7373.0226272006
+    },
+    {
+        "A4": "White",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "Green Party",
+        "Support": 16,
+        "LogSupport": 2.8332133441,
+        "BubbleSize": 5312.8872042423
+    },
+    {
+        "A4": "White",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "I would not vote",
+        "Support": 49,
+        "LogSupport": 3.9120230054,
+        "BubbleSize": 7335.8884221846
+    },
+    {
+        "A4": "White",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 27,
+        "LogSupport": 3.3322045102,
+        "BubbleSize": 6248.6034598025
+    },
+    {
+        "A4": "White",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "None of these",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "White",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "Other",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "White",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "Reform UK (formerly the Brexit Party)",
+        "Support": 29,
+        "LogSupport": 3.4011973817,
+        "BubbleSize": 6377.980001416
+    },
+    {
+        "A4": "White",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "Scottish National Party",
+        "Support": 12,
+        "LogSupport": 2.5649493575,
+        "BubbleSize": 4809.8342644671
+    },
+    {
+        "A4": "White",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 96,
+        "LogSupport": 4.5747109785,
+        "BubbleSize": 8578.5715614345
+    },
+    {
+        "A4": "White",
+        "Education_Level": "5+ GCSEs",
+        "PoliticalParty": "The Labour Party",
+        "Support": 137,
+        "LogSupport": 4.9272536852,
+        "BubbleSize": 9239.6653117726
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 19,
+        "LogSupport": 2.9957322736,
+        "BubbleSize": 5617.6453131886
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "Green Party",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "I would not vote",
+        "Support": 10,
+        "LogSupport": 2.3978952728,
+        "BubbleSize": 4496.571759656
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 9,
+        "LogSupport": 2.302585093,
+        "BubbleSize": 4317.8445784577
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "Reform UK (formerly the Brexit Party)",
+        "Support": 9,
+        "LogSupport": 2.302585093,
+        "BubbleSize": 4317.8445784577
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "Scottish National Party",
+        "Support": 4,
+        "LogSupport": 1.6094379124,
+        "BubbleSize": 3018.0438437268
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 24,
+        "LogSupport": 3.2188758249,
+        "BubbleSize": 6036.0876874537
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Apprenticeship",
+        "PoliticalParty": "The Labour Party",
+        "Support": 29,
+        "LogSupport": 3.4011973817,
+        "BubbleSize": 6377.980001416
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 37,
+        "LogSupport": 3.6375861597,
+        "BubbleSize": 6821.2600377883
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Green Party",
+        "Support": 27,
+        "LogSupport": 3.3322045102,
+        "BubbleSize": 6248.6034598025
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "I would not vote",
+        "Support": 31,
+        "LogSupport": 3.4657359028,
+        "BubbleSize": 6499.0036736544
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 79,
+        "LogSupport": 4.3820266347,
+        "BubbleSize": 8217.2467826503
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "None of these",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Other",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Plaid Cymru",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Reform UK (formerly the Brexit Party)",
+        "Support": 23,
+        "LogSupport": 3.1780538303,
+        "BubbleSize": 5959.5376271509
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "Scottish National Party",
+        "Support": 22,
+        "LogSupport": 3.1354942159,
+        "BubbleSize": 5879.7291540835
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 100,
+        "LogSupport": 4.6151205168,
+        "BubbleSize": 8654.3481772743
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Bachelor+",
+        "PoliticalParty": "The Labour Party",
+        "Support": 206,
+        "LogSupport": 5.3327187933,
+        "BubbleSize": 10000.0
+    },
+    {
+        "A4": "White",
+        "Education_Level": "No Qualifications",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 5,
+        "LogSupport": 1.7917594692,
+        "BubbleSize": 3359.9361576891
+    },
+    {
+        "A4": "White",
+        "Education_Level": "No Qualifications",
+        "PoliticalParty": "Green Party",
+        "Support": 3,
+        "LogSupport": 1.3862943611,
+        "BubbleSize": 2599.6014694617
+    },
+    {
+        "A4": "White",
+        "Education_Level": "No Qualifications",
+        "PoliticalParty": "I would not vote",
+        "Support": 14,
+        "LogSupport": 2.7080502011,
+        "BubbleSize": 5078.1792666851
+    },
+    {
+        "A4": "White",
+        "Education_Level": "No Qualifications",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 8,
+        "LogSupport": 2.1972245773,
+        "BubbleSize": 4120.2708459165
+    },
+    {
+        "A4": "White",
+        "Education_Level": "No Qualifications",
+        "PoliticalParty": "Plaid Cymru",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "White",
+        "Education_Level": "No Qualifications",
+        "PoliticalParty": "Reform UK (formerly the Brexit Party)",
+        "Support": 12,
+        "LogSupport": 2.5649493575,
+        "BubbleSize": 4809.8342644671
+    },
+    {
+        "A4": "White",
+        "Education_Level": "No Qualifications",
+        "PoliticalParty": "Scottish National Party",
+        "Support": 4,
+        "LogSupport": 1.6094379124,
+        "BubbleSize": 3018.0438437268
+    },
+    {
+        "A4": "White",
+        "Education_Level": "No Qualifications",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 32,
+        "LogSupport": 3.4965075615,
+        "BubbleSize": 6556.7071826142
+    },
+    {
+        "A4": "White",
+        "Education_Level": "No Qualifications",
+        "PoliticalParty": "The Labour Party",
+        "Support": 42,
+        "LogSupport": 3.7612001157,
+        "BubbleSize": 7053.062915006
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 16,
+        "LogSupport": 2.8332133441,
+        "BubbleSize": 5312.8872042423
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "Green Party",
+        "Support": 4,
+        "LogSupport": 1.6094379124,
+        "BubbleSize": 3018.0438437268
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "I would not vote",
+        "Support": 15,
+        "LogSupport": 2.7725887222,
+        "BubbleSize": 5199.2029389235
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 14,
+        "LogSupport": 2.7080502011,
+        "BubbleSize": 5078.1792666851
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "None of these",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "Other",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "Plaid Cymru",
+        "Support": 1,
+        "LogSupport": 0.6931471806,
+        "BubbleSize": 1299.8007347309
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "Reform UK (formerly the Brexit Party)",
+        "Support": 14,
+        "LogSupport": 2.7080502011,
+        "BubbleSize": 5078.1792666851
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "Scottish National Party",
+        "Support": 7,
+        "LogSupport": 2.0794415417,
+        "BubbleSize": 3899.4022041926
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 30,
+        "LogSupport": 3.4339872045,
+        "BubbleSize": 6439.4680042418
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Other Qualifications",
+        "PoliticalParty": "The Labour Party",
+        "Support": 32,
+        "LogSupport": 3.4965075615,
+        "BubbleSize": 6556.7071826142
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Don\u2019t know",
+        "Support": 14,
+        "LogSupport": 2.7080502011,
+        "BubbleSize": 5078.1792666851
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Green Party",
+        "Support": 10,
+        "LogSupport": 2.3978952728,
+        "BubbleSize": 4496.571759656
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "I would not vote",
+        "Support": 13,
+        "LogSupport": 2.6390573296,
+        "BubbleSize": 4948.8027250717
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Liberal Democrats",
+        "Support": 14,
+        "LogSupport": 2.7080502011,
+        "BubbleSize": 5078.1792666851
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Other",
+        "Support": 2,
+        "LogSupport": 1.0986122887,
+        "BubbleSize": 2060.1354229582
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Reform UK (formerly the Brexit Party)",
+        "Support": 4,
+        "LogSupport": 1.6094379124,
+        "BubbleSize": 3018.0438437268
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "Scottish National Party",
+        "Support": 5,
+        "LogSupport": 1.7917594692,
+        "BubbleSize": 3359.9361576891
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "The Conservative Party",
+        "Support": 41,
+        "LogSupport": 3.7376696183,
+        "BubbleSize": 7008.9381480299
+    },
+    {
+        "A4": "White",
+        "Education_Level": "Professional Qualifications",
+        "PoliticalParty": "The Labour Party",
+        "Support": 52,
+        "LogSupport": 3.9702919136,
+        "BubbleSize": 7445.1552153212
+    }
+]

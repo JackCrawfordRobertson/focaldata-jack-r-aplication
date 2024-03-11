@@ -1,5 +1,5 @@
 const chart_three =   [  {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "1-4 GCSEs",
     "ethnicity": "Asian or Asian British",
     "volume": 2
@@ -17,7 +17,7 @@ const chart_three =   [  {
     "volume": 8
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "2+ A-levels",
     "ethnicity": "Asian or Asian British",
     "volume": 1
@@ -59,7 +59,7 @@ const chart_three =   [  {
     "volume": 20
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "5+ GCSEs",
     "ethnicity": "Asian or Asian British",
     "volume": 4
@@ -95,7 +95,7 @@ const chart_three =   [  {
     "volume": 5
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "Bachelor+",
     "ethnicity": "Asian or Asian British",
     "volume": 10
@@ -155,7 +155,7 @@ const chart_three =   [  {
     "volume": 1
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "Other Qualifications",
     "ethnicity": "Asian or Asian British",
     "volume": 1
@@ -185,7 +185,7 @@ const chart_three =   [  {
     "volume": 4
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "Professional Qualifications",
     "ethnicity": "Asian or Asian British",
     "volume": 5
@@ -245,7 +245,7 @@ const chart_three =   [  {
     "volume": 1
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "2+ A-levels",
     "ethnicity": "Black or Black British",
     "volume": 2
@@ -299,7 +299,7 @@ const chart_three =   [  {
     "volume": 1
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "Bachelor+",
     "ethnicity": "Black or Black British",
     "volume": 3
@@ -359,7 +359,7 @@ const chart_three =   [  {
     "volume": 3
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "Professional Qualifications",
     "ethnicity": "Black or Black British",
     "volume": 2
@@ -455,7 +455,7 @@ const chart_three =   [  {
     "volume": 2
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "2+ A-levels",
     "ethnicity": "Mixed",
     "volume": 1
@@ -617,7 +617,7 @@ const chart_three =   [  {
     "volume": 1
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "Bachelor+",
     "ethnicity": "Other ethnic group",
     "volume": 4
@@ -695,7 +695,7 @@ const chart_three =   [  {
     "volume": 1
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "2+ A-levels",
     "ethnicity": "Prefer not to say",
     "volume": 1
@@ -713,7 +713,7 @@ const chart_three =   [  {
     "volume": 1
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "Bachelor+",
     "ethnicity": "Prefer not to say",
     "volume": 1
@@ -725,7 +725,7 @@ const chart_three =   [  {
     "volume": 1
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "No Qualifications",
     "ethnicity": "Prefer not to say",
     "volume": 1
@@ -737,7 +737,7 @@ const chart_three =   [  {
     "volume": 1
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "Other Qualifications",
     "ethnicity": "Prefer not to say",
     "volume": 2
@@ -761,7 +761,7 @@ const chart_three =   [  {
     "volume": 1
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "1-4 GCSEs",
     "ethnicity": "White",
     "volume": 35
@@ -827,7 +827,7 @@ const chart_three =   [  {
     "volume": 99
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "2+ A-levels",
     "ethnicity": "White",
     "volume": 71
@@ -893,7 +893,7 @@ const chart_three =   [  {
     "volume": 181
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "5+ GCSEs",
     "ethnicity": "White",
     "volume": 50
@@ -953,7 +953,7 @@ const chart_three =   [  {
     "volume": 137
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "Apprenticeship",
     "ethnicity": "White",
     "volume": 19
@@ -1001,7 +1001,7 @@ const chart_three =   [  {
     "volume": 29
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "Bachelor+",
     "ethnicity": "White",
     "volume": 37
@@ -1067,7 +1067,7 @@ const chart_three =   [  {
     "volume": 206
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "No Qualifications",
     "ethnicity": "White",
     "volume": 5
@@ -1121,7 +1121,7 @@ const chart_three =   [  {
     "volume": 42
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "Other Qualifications",
     "ethnicity": "White",
     "volume": 16
@@ -1187,7 +1187,7 @@ const chart_three =   [  {
     "volume": 32
 },
 {
-    "id": "Don\u2019t know",
+    "id": "Don't know",
     "group": "Professional Qualifications",
     "ethnicity": "White",
     "volume": 14

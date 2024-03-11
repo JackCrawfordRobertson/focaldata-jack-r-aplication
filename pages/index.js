@@ -6,6 +6,7 @@ import styles from "../styles/Home.module.css";
 const ChartOne = dynamic(() => import("../src/components/charts/ChartOne"));
 const ChartTwo = dynamic(() => import("../src/components/charts/ChartTwo"));
 const MyResponsiveScatterPlot = dynamic(() => import("../src/components/charts/ChartThree"), { ssr: false });
+import BubbleChartComponent from "../src/components/charts/ChartThreeV2"
 
 //Comps
 import BodyCopy from "../src/components/BodyCopy";
@@ -32,6 +33,7 @@ const Home = () => {
                     />
 
                     <SubHead sectionNumber="1" title="The Educational Divide in Political Affiliation" />
+                    <h3 className={styles.date}>Drag the slider to explore education level</h3>
 
                     <ChartOne />
 
@@ -52,7 +54,9 @@ const Home = () => {
 
                     <h3 className={styles.date}>Hover to view detailed jorney</h3>
 
-                    <MyResponsiveScatterPlot />
+                    {/* <MyResponsiveScatterPlot /> */}
+
+                    <BubbleChartComponent width={800} height={600} />
 
                     <BodyCopy htmlText="Further analysis " />
                 </div>

@@ -1,5 +1,5 @@
 import React from "react";
-import { ResponsiveScatterPlot } from '@nivo/scatterplot';
+import {ResponsiveScatterPlot} from "@nivo/scatterplot";
 import chart_three from "../../../data/chart_three"; // Ensure the path is correct
 
 // Define colors for each party
@@ -12,117 +12,90 @@ const partyColors = {
     // Add more parties and their colors as needed
 };
 
+const educationLevels = [
+    "No Qualifications",
+    "1-4 GCSEs",
+    "5+ GCSEs",
+    "Apprenticeship",
+    "2+ A-levels",
+    "Bachelor's degree or higher",
+    "Professional qualifications",
+    "Other qualifications",
+];
+
+const ethnicityOrder = [
+    "White",
+    "Mixed",
+    "Asian or Asian British",
+    "Black or Black British",
+    "Chinese",
+    "Other ethnic group",
+    "Prefer not to say",
+];
+
+// Map your groups (education levels) to index positions
+const groupToIndex = (group) => educationLevels.indexOf(group);
+
+// Map your ethnicities to index positions
+const ethnicityToIndex = (ethnicity) => ethnicityOrder.indexOf(ethnicity);
+
+const getNodeSize = (volume) => Math.max(volume * 2, 10); // Ensures that dots are at least of size 10
+
 const transformDataForScatterPlot = (originalData) => {
-    const transformed = [];
-    const ethnicityMap = new Map();
-
-    // Create a map of unique ethnicity values
-    originalData.forEach(item => {
-        const { price } = item;
-        if (!ethnicityMap.has(price)) {
-            ethnicityMap.set(price, ethnicityMap.size);
-        }
+    // Transform your data to the format that Nivo expects for a scatter plot
+    const transformedData = originalData.map((item) => {
+        return {
+            id: item.id,
+            data: [
+                {
+                    x: groupToIndex(item.group),
+                    y: ethnicityToIndex(item.ethnicity),
+                    size: item.volume,
+                },
+            ],
+            color: partyColors[item.id],
+        };
     });
 
-    // Group data by 'id' and 'group'
-    originalData.forEach(item => {
-        const { id, group, volume, price } = item;
-        const groupKey = `${id}-${group}`;
-
-        let groupData = transformed.find(d => d.id === groupKey);
-        if (!groupData) {
-            groupData = {
-                id: groupKey,
-                data: [],
-                label: `${id} - ${group}`,
-                ethnicity: price,
-                ethnicityIndex: ethnicityMap.get(price)
-            };
-            transformed.push(groupData);
-        }
-
-        groupData.data.push({ x: group, y: volume });
-    });
-
-    // Sort data by ethnicity
-    transformed.forEach(group => {
-        group.data.sort((a, b) => b.y - a.y);
-    });
-
-    // Sort transformed array by ethnicity index
-    transformed.sort((a, b) => a.ethnicityIndex - b.ethnicityIndex);
-
-    return { data: transformed, ethnicityMap };
+    return transformedData;
 };
 
 const MyResponsiveScatterPlot = () => {
-    const { data: scatterPlotData, ethnicityMap } = transformDataForScatterPlot(chart_three);
-    
-    const ethnicityLabels = [
-        'White',
-        'Mixed',
-        'Asian or Asian British',
-        'Black or Black British',
-        'Chinese',
-        'Other ethnic group',
-        'Prefer not to say',
-    ];
+    const scatterPlotData = transformDataForScatterPlot(chart_three);
 
     return (
-        <div style={{ height: "500px" }}>
+        <div style={{height: "700px"}}>
             <ResponsiveScatterPlot
                 data={scatterPlotData}
-                margin={{ top: 60, right: 140, bottom: 70, left: 90 }}
-                xScale={{ type: 'point' }}
-                yScale={{ type: 'linear', min: 0, max: 'auto' }}
+                margin={{top: 60, right: 0, bottom: 90, left: 90}}
+                xScale={{type: "linear", min: 0, max: educationLevels.length - 1}}
+                yScale={{type: "linear", min: -1, max: ethnicityOrder.length}}
                 blendMode="multiply"
-                nodeSize={24}
-                colors={node => partyColors[node.id] || 'red'}
+                nodeSize={(d) => getNodeSize(d.volume)} // Use the new getNodeSize function
+                colors={(d) => d.color} // Adjusted to use `color` property directly
                 axisTop={null}
                 axisRight={null}
                 axisBottom={{
-                    orient: 'bottom',
-                    legend: 'Education Level',
-                    legendPosition: 'middle',
+                    orient: "bottom",
+                    tickSize: 5,
+                    tickPadding: 5,
+                    tickRotation: 0,
+                    legend: "Education Level",
+                    legendPosition: "middle",
                     legendOffset: 46,
+                    format: (d) => educationLevels[d],
                 }}
                 axisLeft={{
-                    orient: 'left',
-                    legend: 'Ethnicity',
-                    legendPosition: 'middle',
+                    orient: "left",
+                    tickSize: 5,
+                    tickPadding: 5,
+                    tickRotation: 0,
+                    legend: "Ethnicity",
+                    legendPosition: "middle",
                     legendOffset: -60,
-                    legendValues: ethnicityLabels.map((label, index) => `${index + 1}. ${label}`),
+                    format: (d) => ethnicityOrder[d],
                 }}
-                legends={[
-                    {
-                        anchor: 'bottom-right',
-                        direction: 'column',
-                        justify: false,
-                        translateX: 130,
-                        translateY: 0,
-                        itemsSpacing: 2,
-                        itemWidth: 100,
-                        itemHeight: 12,
-                        itemTextColor: '#999',
-                        itemDirection: 'left-to-right',
-                        itemOpacity: 1,
-                        symbolSize: 12,
-                        symbolShape: 'circle',
-                        effects: [
-                            {
-                                on: 'hover',
-                                style: {
-                                    itemTextColor: '#000'
-                                }
-                            }
-                        ],
-                        data: Object.entries(partyColors).map(([key, value]) => ({
-                            id: key,
-                            label: key,
-                            color: value
-                        }))
-                    }
-                ]}
+                // Add legends and other necessary configurations
             />
         </div>
     );
