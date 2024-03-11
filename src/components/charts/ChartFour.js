@@ -184,7 +184,7 @@ const RadarChart = () => {
 
   return (
     <>
-      <Box sx={{ width: "100%", p: 3 }}>
+      <Box sx={{ width: "auto", p: 0 }}>
         <Slider
           aria-label="Select Question"
           value={questions.indexOf(selectedQuestion)}
