@@ -48,7 +48,7 @@ const EducationChart = () => {
     return (
         <Box sx={{ padding: "0", paddingTop: '0px' }}>
             <Slider
-                min={0}
+                min={1}
                 max={chart_one.length - 1}
                 value={selectedIndex}
                 onChange={handleSliderChange}
