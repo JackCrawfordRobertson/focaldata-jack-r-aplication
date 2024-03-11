@@ -111,9 +111,9 @@ const questionTexts = {
 };
 
 const RadarChart = () => {
-  const [selectedQuestion, setSelectedQuestion] = useState("Q11");
+  const [selectedQuestion, setSelectedQuestion] = useState("Q1");
   const [selectedQuestionText, setSelectedQuestionText] = useState(
-    questionTexts.Q11
+    questionTexts.Q1
   );
   const questions = [
     "Q1",
