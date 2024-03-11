@@ -23,7 +23,6 @@ const customTooltipStyles = {
         stroke: "#6babf2",
         strokeWidth: 1,
         fill: "white", // Background color of the tooltip
-        fontFace: "Proxima Nova",
     },
 };
 

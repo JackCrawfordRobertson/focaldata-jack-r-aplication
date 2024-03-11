@@ -6,6 +6,7 @@ import Typography from "@mui/material/Typography";
 
 //data
 import rawData from "../../../data/data_clean-chart4_v2.json";
+// import questionTexts from "../../../data/questionTexts.json";
 
 
 // Import ResponsiveRadar using dynamic import with SSR disabled
@@ -17,91 +18,91 @@ const ResponsiveRadar = dynamic(() =>
 );
 
 const questionTexts = {
-  Q11: {
+  Q1: {
     prompt: "Which of these statements is closest to your view?",
     options: [
       "1. Legalize and tax drugs for better sense.",
       "2. Keep drugs illegal due to harm to health and society.",
     ],
   },
-  Q12: {
+  Q2: {
     prompt: "Which statement aligns more with your view?",
     options: [
       "1. Redistribute income for the less well-off.",
       "2. Support individuals keeping their earned income.",
     ],
   },
-  Q13: {
+  Q3: {
     prompt: "Which aligns with your view?",
     options: [
       "1. Focus on living standards over cultural issues.",
       "2. Balance living standards and address cultural issues.",
     ],
   },
-  Q14: {
+  Q4: {
     prompt: "Which statement is closest to your view?",
     options: [
       "1. Prioritize growing the economy over wealth equality.",
       "2. Prioritize sharing wealth over growing the economy.",
     ],
   },
-  Q15: {
+  Q5: {
     prompt: "Which aligns with your view?",
     options: [
       "1. Recent immigration enriches British culture.",
       "2. Recent immigration undermines British culture.",
     ],
   },
-  Q16: {
+  Q6: {
     prompt: "Which aligns more with your view?",
     options: [
       "1. Discrimination against non-white people is more significant.",
       "2. Discrimination against white people is equally significant.",
     ],
   },
-  Q17: {
+  Q7: {
     prompt: "Which aligns more with your view?",
     options: [
       "1. Support self-identification of gender.",
       "2. Gender determined by biology at birth.",
     ],
   },
-  Q18: {
+  Q8: {
     prompt: "Which statement aligns more with your view?",
     options: [
       "1. Tough stance on strikers shows strong leadership.",
       "2. Tough stance on strikers lacks compassion.",
     ],
   },
-  Q19: {
+  Q9: {
     prompt: "Which statement aligns more with your view?",
     options: [
       "1. Achieve Net Zero regardless of costs.",
       "2. Delay Net Zero to avoid imposing higher bills.",
     ],
   },
-  Q20: {
+  Q10: {
     prompt: "Which aligns more with your view?",
     options: [
       "1. Low-emission zones necessary to limit air pollution.",
       "2. Low-emission zones are an inconvenience.",
     ],
   },
-  Q21: {
+  Q11: {
     prompt: "Which aligns more with your view?",
     options: [
       "1. Disruptive protesting is necessary for change.",
       "2. Disruptive protesting is an unnecessary inconvenience.",
     ],
   },
-  Q22: {
+  Q12: {
     prompt: "Which aligns more with your view?",
     options: [
       "1. Political system works; no need for radical reform.",
       "2. Political system is broken; needs radical reform.",
     ],
   },
-  Q23: {
+  Q13: {
     prompt: "Which statement aligns more with your view regarding Brexit?",
     options: [
       "1. Brexit failed; consider rejoining parts of the EU.",
