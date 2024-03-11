@@ -46,7 +46,7 @@ const Home = () => {
 
                     <SubHead sectionNumber="2" title="Ethnicity and Political Representation" />
 
-                    <h3 className={styles.date}>Hover to view detailed jorney</h3>
+                    <h3 className={styles.date}>Hover to view detailed journey</h3>
 
                     <ChartTwo data={chart_two} />
 
@@ -54,7 +54,7 @@ const Home = () => {
 
                     <SubHead sectionNumber="3" title="Intersection of Education and Ethnicity in Politics" />
 
-                    <h3 className={styles.date}>Drag the slider to filter polotical party</h3>
+                    <h3 className={styles.date}>Drag the slider to filter by political party</h3>
 
                     <BubbleChartComponent width={800} height={600} />
 
@@ -62,7 +62,7 @@ const Home = () => {
 
                     <SubHead sectionNumber="4" title="The Role of Policy and Campaign Messaging" />
 
-                    <h3 className={styles.date}>Drage slider to filter policy questions</h3>
+                    <h3 className={styles.date}>Drag the slider to filter policy questions</h3>
 
                     <RadarChart />
 
@@ -80,7 +80,7 @@ const Home = () => {
                         Feel free to check out our previous editions of Bi_Focal:
                         <br /><br />
                         Our two-part edition on the rise of Reform, and the shape of public attitudes on social and economic issues, available here (Part I) and here (Part II) A new theory of 'elastic seats', a defining feature of pivotal areas with large variation voter support over time - link here Our MRP of the Voice referendum in Australia last October (we were one of the closest pollsters to the final vote tally) - link here Our (now year old) stress test of predictions about a Labour landslide -- still valid a year on, we think! -- link here Finally, if you or anyone you know regularly run polling, we'd be happy to run a free couple of questions for you -- we'd love to demonstrate the speed of our platform and showcase the technical capacity of our research team."
-                        author="Writen by Focaldata Team"
+                        author="Written by the Focaldata Team."
                     />
                 </div>
             </div>
