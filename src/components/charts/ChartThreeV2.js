@@ -157,13 +157,13 @@ const BubbleChartComponent = () => {
                 domainPadding={40}
                 width={600} // Adjust width as needed
                 height={400} // Adjust height as needed
-                padding={{top: 20, bottom: 90, left: 90, right: 0}}
+                padding={{top: 20, bottom: 110, left: 120, right: 0}}
             >
                 <VictoryAxis
                     tickValues={educationLevels.map((_, index) => index + 1)}
                     tickFormat={educationLevels}
                     style={{
-                        tickLabels: {angle: -45, fontSize: 8, textAnchor: "end"},
+                        tickLabels: {angle: -45, fontSize: 10, textAnchor: "end"},
                     }}
                 />
                 <VictoryAxis
@@ -171,7 +171,7 @@ const BubbleChartComponent = () => {
                     tickValues={ethnicityOrder.map((_, index) => index + 1)}
                     tickFormat={ethnicityOrder}
                     style={{
-                        tickLabels: {fontSize: 8},
+                        tickLabels: {fontSize: 10},
                     }}
                 />
                 {/* <VictoryLegend
